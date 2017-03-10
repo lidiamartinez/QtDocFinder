@@ -1,0 +1,34 @@
+[
+{
+    "id" : "qtDocFinder",
+    "caption" : "Qt Doc Finder",
+    "children":
+    [
+    {
+        "caption" : "DocFinder : Qt5",
+        "command" : "qtdocfinder",
+        "args" : {"index": 0}
+    },
+    {
+        "caption" : "DocFinder : Qt4.8",
+        "command" : "qtdocfinder",
+        "args" : {"index": 1}
+    },
+    {
+        "caption" : "DocFinder : PySide",
+        "command" : "qtdocfinder",
+        "args" : {"index": 2}
+    },
+    {
+        "caption" : "DocFinder : PyQt5",
+        "command" : "qtdocfinder",
+        "args" : {"index": 3}
+    },
+    {
+        "caption" : "DocFinder : PyQt4",
+        "command" : "qtdocfinder",
+        "args" : {"index": 4}
+    }           
+    ]
+}
+]
